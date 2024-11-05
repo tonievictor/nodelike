@@ -28,7 +28,6 @@ npm start
 //await execute(db, createArticle, [1, 'Hello world'])
 ```
 
-4. Endpoints
-Using your api client, you can query this endpoints on `localhost:3000`
+4. Using your preferred client, you can query these endpoints on `localhost:3000`
 - GET `/`
 - POST - `/likes/:id` -  Allows a user to like an article by its id (which defaults to 1, for now.)
